@@ -5,7 +5,6 @@ colorama==0.4.4
 colorhash==1.0.4
 configparser==5.2.0
 cycler==0.11.0
-Cython @ file:///C:/ci/cython_1626257069493/work
 dataclasses==0.8
 Flask==2.0.3
 Flask-Cors==3.0.10
